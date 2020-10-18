@@ -2,7 +2,7 @@
 A Programming Language
 
 ## Features
-- It performs all the binary operations.
+- Performs all the binary operations.
 - Variable creations.
 - Error Handling.
 
