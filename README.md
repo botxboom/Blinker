@@ -7,6 +7,6 @@ A Programming Language
 - Error Handling.
 
 ## Create a variable:
-> vr <identifier> = <value> and hit Enter
+> vr variable_name = variable_value
 
 ###### Enjoy Using the Language, and build your own language from scratch. 
